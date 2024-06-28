@@ -35,7 +35,9 @@
   },
   "name": "@nzmnisam/custom-hooks-and-functions",
   "author": "nzmnisam",
+  "description": "custom hooks and functions for website building",
   "module": "dist/custom-hooks-and-functions.esm.js",
+  "repository": "nzmnisam/custom-hooks-and-functions",
   "size-limit": [
     {
       "path": "dist/custom-hooks-and-functions.cjs.production.min.js",
